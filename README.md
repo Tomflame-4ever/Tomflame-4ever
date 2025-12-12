@@ -1,47 +1,44 @@
+# 👾 Hello World!
 
+I'm Tomflame, an 18-year-old Colombian passionate about testing and improving productivity tools. I actively contribute ideas, test features deeply, and suggest implementations to projects I love—especially automation and Windows customization.
 
-<!--
-**Tomflame-4ever/Tomflame-4ever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👍 What I Do
 
-Here are some ideas to get you started:
+I'm actively looking to contribute to projects related to:
+- **Productivity tools and automation** — testing features, identifying edge cases, suggesting improvements
+- **Windows 11 customization & Power User workflows** — exploring what's possible, sharing ideas
+- **Automation scripts & tools** — collaborating on implementations and real-world use cases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#👾 - Hello World!
+I love working with maintainers to understand their vision and helping shape how features work in practice.
 
-My name is Tomflame, I'm a 18 year old Colombian guy that likes interesting productivity and personalization projects to try on my Windows 11 PC
+## 🔧 My Approach
 
-#🧑🏻‍💻 - My Projects
+I don't just use tools—I deeply test them. I work with **Google Antigravity** (an AI-first IDE) to prototype ideas, experiment with implementations, and articulate what I'm trying to achieve. This lets me bring detailed feedback, concrete suggestions, and working examples to the projects I collaborate on.
 
-Im currently working on a project called MouseHK, an AutoHotkey script for controlling the cursor and do all the actions of a normal mouse from the keyboard.
+## 🎯 Current Projects & Interests
 
-#🧠 - My Knowledge
+I'm actively developing and testing **MouseHK**, an AutoHotkey script that transforms your keyboard into a high-precision mouse controller. It's a perfect example of my approach: taking an idea, building it, testing edge cases, and iterating based on real-world usage.
 
-I actually don't know properly how to code in specific languages, but I'm learning and working with Google Antigravity, an AI-first IDE very capable, I know the basics of proggramming so I guide the AI trough all the process, the features that I want, the bugs that need to be fixed and the explanations I need to comprehend all the functioning of my projects.
+I'm always exploring new productivity projects to test and contribute to.
 
-#👍 - My Apports
+## 📥 Contributing & Collaboration
 
-I'm looking to collaborate on different projects that look interesting to me, normally about productivity tools or Power User personalization on Windows 11
+I'm genuinely interested in understanding how projects work and how they could work better. If you're building tools for productivity or automation, I'd love to:
+- Test your features and report detailed feedback
+- Suggest ideas for implementation
+- Collaborate on improvements
+- Share my experience using your project
 
-#🙏 - Your Contribution
+## 📧 Get in Touch
 
-I'm open to everyone for apporting contributions to my projects or my ideas, I'll be glad to understand their reasons, their implementations and their awesome ideas.
-
-#📥 - My Contact
-
-You can contact me trough Github or trough my E-mail: tomflame2018@gmail.com
+Reach out if you want feedback on your project, ideas for features, or collaboration:
+- **GitHub**: [@Tomflame-4ever](https://github.com/Tomflame-4ever)
+- **Email**: tomflame2018@gmail.com
 
 ---
 
-Pronouns: He/Him
+**Pronouns:** He/Him
 
-Fun Fact: I'm deeply obsessed with Rhythm Games (like Phigros, Osu!, Cytus II) and Gacha Games (like Genshin Impact, Honkai Star Rail, Chaos Zero Nightmare).
+**Fun Fact:** I'm deeply into rhythm games (Phigros, Osu!, Cytus II) and gacha games (Genshin Impact, Honkai Star Rail, Chaos Zero Nightmare).
 
-Thanks for reading my profile! :D
+Thanks for stopping by! 😊
